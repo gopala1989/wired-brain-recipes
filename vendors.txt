@@ -1,0 +1,2 @@
+Vendor1, chennai, 12345
+Vendor2, Madurai, 43212
